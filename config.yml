@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 pluralizeListTitles: false
 
-googleAnalytics:
+googleAnalytics: "G-EJXFCZ5DWR"
 
 minify:
   disableXML: true
