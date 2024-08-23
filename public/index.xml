@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Navneeth M</title>
-    <link>https://main--cheerful-mousse-b9d87b.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Navneeth M</description>
     <image>
       <title>Navneeth M</title>
-      <url>https://main--cheerful-mousse-b9d87b.netlify.app/logo_outlined_6.png</url>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/logo_outlined_6.png</link>
+      <url>http://localhost:1313/logo_outlined_6.png</url>
+      <link>http://localhost:1313/logo_outlined_6.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 May 2023 21:32:50 -0400</lastBuildDate><atom:link href="https://main--cheerful-mousse-b9d87b.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 May 2023 21:32:50 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Sat, 13 May 2023 21:32:50 -0400</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>Privacy policy.</description>
     </item>
     
     <item>
       <title>Discord</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/discord/</link>
+      <link>http://localhost:1313/discord/</link>
       <pubDate>Fri, 12 May 2023 20:35:58 -0400</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/discord/</guid>
+      <guid>http://localhost:1313/discord/</guid>
       <description>Link to my Discord profile and my Discord username.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 10 May 2023 16:53:59 -0400</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Information about me.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/posts/ajldkajs/</link>
+      <link>http://localhost:1313/posts/ajldkajs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/posts/ajldkajs/</guid>
+      <guid>http://localhost:1313/posts/ajldkajs/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://main--cheerful-mousse-b9d87b.netlify.app/projects/3d-models/3dmodels/</link>
+      <link>http://localhost:1313/projects/3d-models/3dmodels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://main--cheerful-mousse-b9d87b.netlify.app/projects/3d-models/3dmodels/</guid>
+      <guid>http://localhost:1313/projects/3d-models/3dmodels/</guid>
       <description>asdasdadadd</description>
     </item>
     
