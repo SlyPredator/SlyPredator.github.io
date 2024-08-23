@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://main--cheerful-mousse-b9d87b.netlify.app/sitemap.xml
