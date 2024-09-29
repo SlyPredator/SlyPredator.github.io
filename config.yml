@@ -64,7 +64,7 @@ params:
   # https://github.com/adityatelange/hugo-PaperMod/issues/940
   mainSections:
     - posts
-    - projects
+    - portfolio
 
   assets:
     # Disables highlight.js, using Hugo Chroma instead
@@ -161,14 +161,18 @@ menu:
       name: About
       url: /about/
       weight: 1
-    - identifier: projects
-      name: Projects
-      url: /projects/
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
       weight: 2
+    - identifier: resume
+      name: Resume
+      url: resume/cv-navneeth.pdf
+      weight: 3
     - identifier: search
       name: Search
       url: /search/
-      weight: 3
+      weight: 4
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -179,6 +183,9 @@ markup:
     # Without this, Hugo ToC doesn't show h4 and higher
     # https://github.com/alex-shpak/hugo-book/issues/52
     endLevel: 6
+  goldmark:
+    renderer:
+      unsafe: true
 
   highlight:
     anchorLineNos: false
